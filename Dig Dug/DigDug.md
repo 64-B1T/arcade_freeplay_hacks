@@ -1,18 +1,25 @@
 DigDug Freeplay Hack
 
-This is a free play hack for Atari's Dig Dug arcade machine.
-Features
+This is a series of Freeplay Hacks for Dig Dug by Namco and Atari
 
-    Works in Upright and Cocktail Mode
-    Flashes "FREE PLAY" when in attract in Freeplay mode
-    Full attract mode plays when on freeplay, preventing burn-in
-    Flashes "start" lights on Freeplay mode
-    All coin modes are preserved and fully functional (accessible via dip setting)
+There are eight versions (whewlad)
 
-Instructions
+They are divided into:
 
-    Download this repository
-    Using Lunar IPS, and your own ROMS, apply each IPS patch to rom R1 and rom KL1
-    Burn the ROMS (uses 2x 2532 ROMs)
-    Install in the game.
-    Set dip switch to "1 coin 7 credits for freeplay"
+Atari vs. Namco
+Rev1 vs. Rev2
+Dip Selectable vs. Freeplay Only
+
+Features:
+- Dip Selectable (1 coin 7 credits = Free Play)*
+- Free Play Text Appears on Screen in Free Play Mode
+- Start Lights Flash in Free Play Mode In Attract
+- Full Attract Sequence Plays
+- Support for All Dig Dug ROM Revisions 
+
+
+Removed Features (Gotta Make Space Somewhere):
+- Ram Test
+- ROM Test 
+
+\* As in the name, "FreePlay Only" Roms ignore dip settings and always use FreePlay. (Why would you want this?)
