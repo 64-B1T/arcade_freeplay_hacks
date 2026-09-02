@@ -23,3 +23,16 @@ Removed Features (Gotta Make Space Somewhere):
 - ROM Test 
 
 \* As in the name, "FreePlay Only" Roms ignore dip settings and always use FreePlay. (Why would you want this?)
+
+## Dig Dug Freeplay — Output Builds
+
+| Manufacturer | Revision | Free Play Style | Tested Status |
+|---|---|---|---|
+| Atari | Rev 2 | DIP Select (Coin B = 1 coin / 7 credits > Freeplay) | Tested on hardware |
+| Atari | Rev 2 | Freeplay Only (always on) | Tested on Mame Only |
+| Atari | Rev 1 | DIP Select (Coin B = 1 coin / 7 credits > Freeplay) | Tested on Mame Only |
+| Atari | Rev 1 | Freeplay Only (always on) | Tested on Mame Only |
+| Namco | Rev 2 | DIP Select (Coin B = 1 coin / 7 credits > Freeplay) | Tested on Mame Only |
+| Namco | Rev 2 | Freeplay Only (always on) | Tested on Mame Only |
+| Namco | Rev 1 | DIP Select | Unsupported |
+| Namco | Rev 1 | Freeplay Only | Unsupported |
